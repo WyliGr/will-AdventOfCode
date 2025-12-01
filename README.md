@@ -6,6 +6,6 @@ Advent of Code puzzles can be solved in any programming language, and they range
 
 ## About This Repo
 
-* Each folder contains my solutions for a specific year/day.
+* Each folder contains my solutions for a specific year and day.
 * Solutions are written in the language I preferred at the time.
 * My goal is to share my approach and have a record of my problem-solving journey.
