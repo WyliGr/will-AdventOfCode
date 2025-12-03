@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # 🎄 Advent of Code
 
 This repository contains my solutions to [Advent of Code](https://adventofcode.com), a series of small programming puzzles released every December.
