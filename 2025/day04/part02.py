@@ -1,3 +1,6 @@
+# Advent of Code - 2025 Edition
+# Day04 - Part02
+
 with open("input", "r") as file:
     grid = [list(line.strip()) for line in file]
 
